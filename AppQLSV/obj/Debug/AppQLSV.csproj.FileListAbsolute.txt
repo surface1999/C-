@@ -1,0 +1,34 @@
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.frmLopChiTiet.resources
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.FormMain.resources
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe.config
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\AppQLSV.pdb
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CopyComplete
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.exe
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.pdb
+C:\Users\HP\source\repos\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.frmChiTietHS.resources
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe.config
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\AppQLSV.exe
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\AppQLSV.pdb
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\EntityFramework.dll
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\EntityFramework.xml
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.frmChiTietHS.resources
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.FormMain.resources
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.GUI.frmLopChiTiet.resources
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.csproj.CopyComplete
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.exe
+D:\.Net framework\AppQLSV\AppQLSV\AppQLSV\obj\Debug\AppQLSV.pdb
